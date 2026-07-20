@@ -21,10 +21,12 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg"
-    alt="arXiv paper coming soon"
-  >
+  <a href="https://arxiv.org/abs/2607.14510">
+    <img
+      src="https://img.shields.io/badge/arXiv-2607.14510-b31b1b.svg"
+      alt="arXiv paper 2607.14510"
+    >
+  </a>
   <a href="https://github.com/Buaa03059/VLT-A-Vision-Language-Time-Series-Multimodal-Foundation-Model-for-Industrial-PHM">
     <img
       src="https://img.shields.io/badge/Code-Coming%20Soon-blue.svg"
