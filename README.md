@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  Paper: coming soon &nbsp;|&nbsp; Code and checkpoints: coming soon
-</p>
-
-<p align="center">
   <a href="https://orcid.org/0000-0002-7316-3607">Haiteng Wang</a><sup>*</sup>,
   <a href="https://orcid.org/0009-0002-8844-402X">Jingheng Yan</a><sup>*</sup>,
   <a href="https://orcid.org/0000-0002-0981-6204">Xiaokang Wang</a>,
@@ -24,8 +20,24 @@
   <sup>*</sup>Equal contribution &nbsp;&nbsp; <sup>†</sup>Corresponding author
 </p>
 
-> The implementation and pretrained checkpoints will be released soon.
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg"
+    alt="arXiv paper coming soon"
+  >
+  <a href="https://github.com/Buaa03059/VLT-A-Vision-Language-Time-Series-Multimodal-Foundation-Model-for-Industrial-PHM">
+    <img
+      src="https://img.shields.io/badge/Code-Coming%20Soon-blue.svg"
+      alt="Code coming soon"
+    >
+  </a>
+  <img
+    src="https://img.shields.io/badge/Task-Industrial%20PHM-green.svg"
+    alt="Industrial PHM"
+  >
+</p>
 
+> The implementation and pretrained checkpoints will be released soon.
 ## Overview
 
 Industrial Prognostics and Health Management (PHM) seeks to understand equipment health from sensor data and support tasks such as remaining useful life (RUL) prediction, battery capacity estimation, and fault diagnosis. Most existing methods rely on a single modality, although real industrial systems contain complementary temporal dynamics, spectral patterns, and domain knowledge.
