@@ -166,25 +166,28 @@ Before fusion, embeddings from different modalities are scattered and overlap he
 
 ## Repository Structure
 
+The code will be organized as follows:
+
 ```text
-.
-├── assets/               # PNG figures used by this README
-├── fig/bio/              # Author photographs
-├── new_exp_fig/          # Original experimental figures
+VLT/
+├── assets/                  # Figures used in README
+├── configs/                 # Experiment configuration files
+├── data/                    # Data preprocessing scripts
+├── models/                  # VLT model implementation
+│   ├── time_moe.py
+│   ├── frequency_visual.py
+│   ├── knowledge_learner.py
+│   └── fusion.py
+├── trainers/                # Training and evaluation scripts
+├── utils/                   # Utility functions
+├── scripts/                 # Running scripts
 ├── README.md
-├── VLT-main.tex          # Main manuscript
-├── supplementary.tex     # Supplementary material
-└── reference.bib         # Bibliography
-```
+└── requirements.txt
 
 ## Citation
 
 If you find VLT useful in your research, please cite the paper. The public paper link and canonical BibTeX entry will be added after release.
 
-## Acknowledgements
-
-This work is supported by the National Natural Science Foundation of China under Grants 62225302, 623B2014, and 62173023.
-
 ## Contact
 
-For questions, please contact [Haiteng Wang](mailto:wanghaiteng@buaa.edu.cn), [Jingheng Yan](mailto:yjh967@buaa.edu.cn), or [Lei Ren](mailto:renlei@buaa.edu.cn).
+For questions, please contact [Haiteng Wang](mailto:wanghaiteng@buaa.edu.cn), [Jingheng Yan](mailto:yjh967@buaa.edu.cn).
