@@ -39,7 +39,6 @@
   >
 </p>
 
-> The implementation and pretrained checkpoints will be released soon.
 ## Overview
 
 Industrial Prognostics and Health Management (PHM) seeks to understand equipment health from sensor data and support tasks such as remaining useful life (RUL) prediction, battery capacity estimation, and fault diagnosis. Most existing methods rely on a single modality, although real industrial systems contain complementary temporal dynamics, spectral patterns, and domain knowledge.
